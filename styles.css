@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.main{
+	background-color:grey;
+	width:550px;
+	height:550px;
+	justify-content:space-between
+	
+}
+#photo-heading{
+	color:white;
+	
+}
