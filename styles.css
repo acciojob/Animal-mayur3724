@@ -1,12 +1,19 @@
 /*  your css code here. If applicable */
 .main{
 	background-color:grey;
-	width:550px;
-	height:550px;
-	justify-content:space-between
-	
+	width:510px;
+	height:420px;
+	justify-content:space-between;
+	boder-radius:20%;
 }
 #photo-heading{
 	color:white;
-	
+	align-items:centre;
+}
+.img{
+	padding:2px;
+	margin:5px;
+	width:150px;
+	height:100px;
+	boder-radius:20%;
 }
