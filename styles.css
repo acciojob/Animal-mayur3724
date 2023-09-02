@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:grey;
+	width:520px;
+	height:430px;
+}
 .main{
 	background-color:grey;
 	width:510px;
@@ -9,11 +14,13 @@
 #photo-heading{
 	color:white;
 	align-items:centre;
+	text-align:center;
+	text-font:sans-serif;
 }
 .img{
-	padding:2px;
+	padding:3px;
 	margin:5px;
 	width:150px;
 	height:100px;
-	boder-radius:20%;
+	boder-radius:20px;
 }
